@@ -2,11 +2,13 @@
 
 
 
--  🧑‍💻 22 years old Software Engineer and Java Lover 🐗
+22 years old Software Engineer and Java Lover 🐗💻
 
-- 💬 Passion for learning, search for solutions and solving ( sometimes it gives headeaches, yeah ).
+Passion for learning, search for solutions and solving ( sometimes it gives headeaches, yeah ). 💬
 
--  LF a job so i can learn even more 🕶. 
+LF a job so i can learn even more . 🕶
+
+
 
 
 
