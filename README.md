@@ -1,21 +1,41 @@
-### Olá, me chamo Matheus Moura sou desenvolvedor Java, be welcome! ☕
+### Hey there, me chamo Matheus Moura sou desenvolvedor Java, be welcome! ☕
 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  🧑‍💻 22 years old Software Engineer and Java Lover 🐗
+
+- 💬 Passion for learning, search for solutions and solving ( sometimes it gives headeaches, yeah ).
+
+-  LF a job so i can learn even more 🕶. 
+
+
+
+
+## Some skills ive learned until now:
+
+- Java 8+, Servlets, SOLID, Maven.
+- DB Modeling, exp with MySQL, MariaDB, H2, DBeaver.
+- Development and documentation of APIs.
+- Automatizaded tests, deploy.
+- Spring: Boot, MVC, Data JPA, Security, Cloud.	
+- Microservices development
+- TDD, BDD & DDD in Java.
+- Mocks.
+- Design Patterns.
+- Clean Architecture.
+- Persistence JPA: Hibernate.
+- Docker/Docker Compose
+- Git version control.
+- JavaScript(basic).
+- HTML and CSS (basic).
+
+And theres more u can see on my Linkedin profile.
 
 
 <div align="center">
   <a href="https://github.com/matthewmatheus">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matthewmatheus&show_icons=false&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthewmatheus&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matthewmatheus&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthewmatheus&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -28,8 +48,8 @@
 <div> 
 <br>
    <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:mattmoura.jvm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheus-moura-644884233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/matthewmatheus/matthewmatheus/blob/output/github-contribution-grid-snake.svg)
  
