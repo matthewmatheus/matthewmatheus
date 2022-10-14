@@ -1,4 +1,4 @@
-### Hey there, me chamo Matheus Moura sou desenvolvedor Java, be welcome! ☕
+### Hey there, me chamo Matheus Moura e sou desenvolvedor Java, be welcome! ☕
 
 
 
@@ -13,7 +13,7 @@ LF a job so i can learn even more . 🕶
 
 
 
-## Some skills ive learned until now:
+## Some skills i've learned until now:
 
 - Java 8+, Servlets, SOLID, Maven.
 - DB Modeling, exp with MySQL, MariaDB, H2, DBeaver.
