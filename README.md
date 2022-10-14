@@ -18,7 +18,7 @@ LF a job so i can learn even more . 🕶
 - Java 8+, Servlets, SOLID, Maven.
 - DB Modeling, exp with MySQL, MariaDB, H2, DBeaver.
 - Development and documentation of APIs.
-- Automatizaded tests, deploy.
+- Automated tests, deploy.
 - Spring: Boot, MVC, Data JPA, Security, Cloud.	
 - Microservices development
 - TDD, BDD & DDD in Java.
