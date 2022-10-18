@@ -16,7 +16,7 @@ LF a job so i can learn even more . 🕶
 ## Some skills i've learned until now:
 
 - Java 8+, Servlets, SOLID, Maven.
-- DB Modeling, exp with MySQL, MariaDB, H2, DBeaver.
+- DB Modeling, exp with MySQL, MariaDB, H2, DBeaver, PostgreSQL.
 - Development and documentation of APIs.
 - Automated tests, deploy.
 - Spring: Boot, MVC, Data JPA, Security, Cloud.	
