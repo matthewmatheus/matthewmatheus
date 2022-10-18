@@ -19,10 +19,11 @@ LF a job so i can learn even more . 🕶
 - DB Modeling, exp with MySQL, MariaDB, H2, DBeaver, PostgreSQL.
 - Development and documentation of APIs.
 - Automated tests (Mockito, JUnit, Cucumber, Selenium).
+- TDD, BDD & DDD in Java.
 - Deploy
 - Spring: Boot, MVC, Data JPA, Security, Cloud.	
 - Microservices development
-- TDD, BDD & DDD in Java.
+
 
 - Design Patterns.
 - Clean Architecture.
