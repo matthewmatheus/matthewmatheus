@@ -31,7 +31,7 @@ LF a job so i can learn even more . 🕶
 - JavaScript(basic).
 - HTML and CSS (basic).
 
-And theres more u can see on my Linkedin profile.
+And theres much more u can see on my Linkedin profile.
 
 
 <div align="center">
