@@ -22,8 +22,8 @@ LF a job so i can learn even more . 🕶
 - Deploy
 - Spring: Boot, MVC, Data JPA, Security, Cloud.	
 - Microservices development
-- BDD & DDD in Java.
-- TDD
+- TDD, BDD & DDD in Java.
+
 - Design Patterns.
 - Clean Architecture.
 - Persistence JPA: Hibernate.
