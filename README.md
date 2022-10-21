@@ -20,6 +20,7 @@ LF a job so i can learn even more . 🕶
 - Development and documentation of APIs.
 - Automated tests (Mockito, JUnit, Cucumber, Selenium).
 - TDD, BDD & DDD in Java.
+- Agility & DevOps
 - Deploy
 - Spring: Boot, MVC, Data JPA, Security, Cloud.	
 - Microservices development
