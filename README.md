@@ -19,6 +19,7 @@ LF a job so i can learn even more . 🕶
 - DB Modeling, exp with MySQL, MariaDB, H2, DBeaver, PostgreSQL.
 - Development and documentation of APIs.
 - Automated tests (Mockito, JUnit, Cucumber, Selenium).
+- Automated build (Makefile)
 - TDD, BDD & DDD in Java.
 - Agility & DevOps
 - Deploy
