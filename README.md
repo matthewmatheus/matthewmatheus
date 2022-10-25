@@ -20,7 +20,7 @@ LF a job so i can learn even more . 🕶
 - Development and documentation of APIs.
 - Automated tests (Mockito, JUnit, Cucumber, Selenium).
 - Automate Repetitive Tasks with Makefile
-- Continuous Integration (Travis)
+- Continuous Integration/Delivey/Deployment (Travis)
 - TDD, BDD & DDD in Java.
 - Agility & DevOps
 - Deploy
