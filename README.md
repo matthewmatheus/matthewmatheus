@@ -21,7 +21,9 @@ LF a job so i can learn even more . 🕶
 - Automated tests (Mockito, JUnit, Cucumber, Selenium).
 - Automate Repetitive Tasks with Makefile
 - Continuous Integration/Delivey/Deployment 
-- TDD, BDD & DDD in Java.
+- TDD
+- BDD
+- DDD 
 - Agility & DevOps
 - Deploy
 - Spring: Boot, MVC, Data JPA, Security, Cloud.	
