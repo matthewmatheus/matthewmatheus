@@ -6,7 +6,7 @@
 
 Passion for learning, search for solutions and solving ( sometimes it gives headeaches, yeah ). 💬
 
-LF a job so i can learn even more . 🕶
+
 
 
 
