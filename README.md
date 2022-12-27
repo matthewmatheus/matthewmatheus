@@ -9,38 +9,6 @@ Passion for learning, search for solutions and solving ( sometimes it gives head
 
 
 
-
-
-
-
-## Some skills i've learned until now:
-
-- Java 8+, Servlets, SOLID, Maven.
-- DB Modeling, exp with MySQL, MariaDB, H2, DBeaver, PostgreSQL.
-- Development and documentation of APIs.
-- Automated tests (Mockito, JUnit, Cucumber, Selenium).
-- Automate Repetitive Tasks with Makefile
-- Continuous Integration/Delivey/Deployment 
-- Java Test-Driven Development (TDD)
-- Java Behavior Driven Development (BDD)
-- Java Domain-Driven Design (DDD) 
-- Agility & DevOps
-- Deploy
-- Spring: Boot, MVC, Data JPA, Security, Cloud.	
-- Microservices development
-
-
-- Design Patterns.
-- Clean Architecture.
-- Persistence JPA: Hibernate.
-- Docker/Docker Compose
-- Git version control.
-- JavaScript(basic).
-- HTML and CSS (basic).
-
-And u can find much more of my formation on my Linkedin profile
-
-
 <div align="center">
   <a href="https://github.com/matthewmatheus">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matthewmatheus&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true"/>
