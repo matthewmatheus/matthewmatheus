@@ -4,7 +4,7 @@
 
 22 years old Software Engineer and Java Lover 🐗💻
 
-Passion for learning, search for solutions and solving ( sometimes it gives headeaches, yeah ). 💬
+Passion for learning and search for the best solutions ( sometimes it gives headeaches, yea ). 💬
 
 
 
