@@ -1,4 +1,4 @@
-### Hey there, me chamo Matheus Moura e sou desenvolvedor Java, be welcome! ☕
+### Hey there, my name is Matheus and ima Javinha Developer, be welcome! ☕
 
 
 
