@@ -1,4 +1,4 @@
-### Hey there, my name is Matheus and ima Back-End, be welcome! ☕
+### Hey there, my name is Matheus and ima Back-End developer, be welcome! ☕
 
 
 
