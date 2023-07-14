@@ -1,4 +1,4 @@
-### 👋 Hey there, I'm Matheus Moura (or Matthew, whatever you prefer)! ☕👩‍💻
+### 👋 Hello there, I'm Matheus Moura (or Matthew, whatever you prefer)! ☕👩‍💻
 
 
 
