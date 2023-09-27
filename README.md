@@ -12,8 +12,8 @@ I love to learn new things every day. I'm a back-end developer, but I also dabbl
 <div align="center">
    <div style="display: flex">
    <a href="https://github.com/matthewmatheus">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthewmatheus&theme=cobalt &hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
-   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=matthewmatheus&theme=cobalt &hide_border=true"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthewmatheus&theme=cobalt&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matthewmatheus&theme=aura&show_icons=true)"/>
    </div>
 </div>
 
@@ -32,7 +32,7 @@ I love to learn new things every day. I'm a back-end developer, but I also dabbl
   <a href="https://www.linkedin.com/in/matheus-moura-644884233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://codepen.io/matthew-moura-dev" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/matthewmatheus/matthewmatheus/blob/output/github-contribution-grid-snake.svg)
- 
+ <div align="center">
+   <img src="https://github.com/matthewmatheus/matthewmatheus/blob/output/github-snake-dark.svg" />
 </div>
   
