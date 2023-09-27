@@ -32,6 +32,3 @@ I love to learn new things every day. I'm a back-end developer, but I also dabbl
   <a href="https://www.linkedin.com/in/matheus-moura-644884233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://codepen.io/matthew-moura-dev" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a> 
 
-<br>
- 
- ![snake gif](https://github.com/matthewmatheus/matthewmatheus/blob/output/github-contribution-grid-snake.gif)
